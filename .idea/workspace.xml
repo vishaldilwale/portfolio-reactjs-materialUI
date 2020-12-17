@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c78214a1-3fdc-42b5-87e8-bbb0d0e4dbb7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/portfolio" />
+  </component>
+  <component name="ProjectId" id="1kph8iqpzjRbJnleChdU6dmReUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\visha\Desktop\Work Projects\Portfolio\portfolio\src\components\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\visha\Desktop\Work Projects\Portfolio\portfolio\public" />
+      <recent name="C:\Users\visha\Desktop\Work Projects\Portfolio\portfolio\src\components\assets\images" />
+      <recent name="C:\Users\visha\Desktop\Work Projects\Portfolio\portfolio\src\components\assets\Resume" />
+      <recent name="C:\Users\visha\Desktop\Work Projects\Portfolio\portfolio\src\components\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c78214a1-3fdc-42b5-87e8-bbb0d0e4dbb7" name="Default Changelist" comment="" />
+      <created>1606403284016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606403284016</updated>
+      <workItem from="1606403289548" duration="965000" />
+      <workItem from="1606537618057" duration="5175000" />
+      <workItem from="1606552143908" duration="18329000" />
+      <workItem from="1607606583232" duration="907000" />
+      <workItem from="1607613556766" duration="10565000" />
+      <workItem from="1607664430830" duration="3820000" />
+      <workItem from="1607686432886" duration="11149000" />
+      <workItem from="1607700334534" duration="10727000" />
+      <workItem from="1607741323526" duration="9068000" />
+      <workItem from="1607765994427" duration="12646000" />
+      <workItem from="1607792493672" duration="2109000" />
+      <workItem from="1607826603824" duration="20865000" />
+      <workItem from="1607871745304" duration="7180000" />
+      <workItem from="1607954019689" duration="12982000" />
+      <workItem from="1608004919479" duration="6217000" />
+      <workItem from="1608016386181" duration="1653000" />
+      <workItem from="1608033217002" duration="7104000" />
+      <workItem from="1608091986212" duration="1780000" />
+      <workItem from="1608184462409" duration="771000" />
+      <workItem from="1608200979085" duration="17902000" />
+      <workItem from="1608233244474" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

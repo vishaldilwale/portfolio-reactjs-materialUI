@@ -1,0 +1,8 @@
+.SkillsTab{
+  box-shadow: 0 1px 1px rgba(44, 50, 66, 0.06), 0 8px 8px rgba(44, 50, 66, 0.01);;
+}
+
+html{
+  scroll-behavior: smooth
+}
+
