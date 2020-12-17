@@ -1,6 +1,6 @@
 # Portfolio developed using ReactJS and Material UI
 
-## Live Site : [Portfolio DEMO](https://vishaldilwale.netlify.com)
+## Live Site : [Demo](https://vishaldilwale.netlify.com)
 
 ## Available Scripts
 
