@@ -53,7 +53,7 @@ let Project=(props)=>{
                                         width="70"
                                         image={props.img}
                                         title={props.name}
-                                        style={props.name === "V-Kart" ? {filter: "drop-shadow(2px 1px 6px black)"} : null}
+                                        style={props.name === "V-Kart" ? {filter: "drop-shadow(2px 1px 6px black)",objectFit:"stretch"} : {objectFit:"stretch"}}
                                     />
                                     <CardContent>
                                         <Grid

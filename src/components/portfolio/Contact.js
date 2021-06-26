@@ -46,7 +46,7 @@ export default function Contact() {
         setLoading(true);
         e.preventDefault();
         // Email JS Credentials
-        await emailjs.sendForm(SERVICE_ID, EMPLATE_ID, e.target, USER_ID)
+        await emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.target, USER_ID)
             .then((result) => {
                 console.log("SUCCESS");
                 setSuccess(true);

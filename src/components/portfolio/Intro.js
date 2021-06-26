@@ -1,8 +1,9 @@
 import React from "react";
-import { makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import Grid from '@material-ui/core/Grid';
+import TTAJobs from '../assets/images/TTAProjectImg.png';
+import Bricksberry from '../assets/images/BrickberryProjectImg.png';
 import MakeInCountry from '../assets/images/MakeInCountryImg.png';
 import VKart from '../assets/images/VKartImg.png';
 import Github from '../assets/images/GithubProfileImg.png';
@@ -22,7 +23,25 @@ let Intro=()=>{
             </Typography>
                 </Grid>
             </Grid>
-                <Grid container  maxwidth="true" spacing={0}>
+                <Grid container maxwidth="true" spacing={0}>
+                <Project
+                    name={"TTA Jobs"}
+                    img={TTAJobs}
+                    info={"Become a freelancer or hire a freelancer."}
+                    link={"https://ttacsandboxfe.ttacorp.com/login"}
+                    tags={["React Redux","Redux Thunk","JWT","Authentication","Google ReCAPTCHA","Bootstrap","DotEnv"]}
+                    features={["Become a freelancer","Hire a freelancer","Upload portfolio, course documents, videos, images","Update work charges","Add skills and roles"]}
+                    grow={"500"}
+                    />
+                    <Project
+                    name={"Bricksberry"}
+                    img={Bricksberry}
+                    info={"Online platform to sell and buy properties."}
+                    link={"http://brick-berry.com/"}
+                    tags={["React Redux","Redux Thunk","JWT","Authentication","Bootstrap","DotEnv","AWS S3 Bucket"]}
+                    features={["Filter property by location","Buyer, Seller, Agent roles","Upload property images, videos","Commercial and Industrial properties"]}
+                    grow={"500"}
+                    />
                     <Project
                     name={"Make In Country"}
                     img={MakeInCountry}
